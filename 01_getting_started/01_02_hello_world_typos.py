@@ -1,7 +1,7 @@
 
 #this will be a typo
 # print ("hello world") has no issues
-print "hello world" # creates an issue because there are no parethesis 
+print "hello world" # creates an issue because there are no paretheses 
 
 # fixing the issue
 
