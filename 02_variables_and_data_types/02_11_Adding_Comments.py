@@ -1,0 +1,1 @@
+#I added comments to assignments 7(stripping names) and 8(file extentions)
