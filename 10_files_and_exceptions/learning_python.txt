@@ -1,0 +1,4 @@
+In Python you can define functions
+In Python you can create loops
+In Python you can manipulate text
+In Python you can import different things.
