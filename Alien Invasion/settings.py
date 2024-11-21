@@ -13,7 +13,7 @@ class Settings:
         # ship speed
         self.mario_speed = 5
                 #bullet settings
-        self.shell_speed = 1
+        self.shell_speed = 8
         self.shell_width = 10
         self.shell_height = 20
         

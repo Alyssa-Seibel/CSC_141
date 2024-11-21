@@ -12,7 +12,7 @@ class Mario:
         self.screen_rect = ai_game.screen.get_rect()
 
         # load the ship and get its rect
-        original_image = pygame.image.load('media/mario_kart.png')
+        original_image = pygame.image.load('media/Picture1.png')
         self.image = pygame.transform.scale(original_image, (100,100))
         self.rect = self.image.get_rect()
 
